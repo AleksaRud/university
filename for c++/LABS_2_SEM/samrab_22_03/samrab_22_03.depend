@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1679489168 source:d:\for c++\labs_2_sem\samrab_22_03\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<iomanip>
+	"func.h"
+
+1679489821 d:\for c++\labs_2_sem\samrab_22_03\func.h
+	<iostream>
+	<string.h>
+	<string>
+	<iomanip>
+
+1679489821 source:d:\for c++\labs_2_sem\samrab_22_03\for_samrab.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<iomanip>
+	<time.h>
+	"func.h"
+

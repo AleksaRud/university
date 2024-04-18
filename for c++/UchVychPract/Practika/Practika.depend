@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1688570150 source:d:\for c++\uchvychpract\practika\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string.h>
+	<string>
+	<list>
+	<vector>
+	"func.h"
+	<time.h>
+
+1688570388 d:\for c++\uchvychpract\practika\func.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string.h>
+	<string>
+	<list>
+	<vector>
+	<time.h>
+

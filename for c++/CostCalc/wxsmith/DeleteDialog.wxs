@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxDialog" name="DeleteDialog">
+		<size>337,188</size>
+		<id_arg>0</id_arg>
+		<object class="wxStaticText" name="ID_STATICTEXT1" variable="StaticText1" member="yes">
+			<label>Choose number of laptop which you want to delete</label>
+			<pos>40,8</pos>
+			<size>248,40</size>
+			<style>wxALIGN_CENTRE</style>
+		</object>
+		<object class="wxStaticBox" name="ID_STATICBOX1" variable="StaticBox1" member="yes">
+			<label>Laptop&apos;s number</label>
+			<pos>8,48</pos>
+			<size>320,56</size>
+		</object>
+		<object class="wxChoice" name="ID_CHOICE1" variable="Choice1" member="yes">
+			<pos>16,72</pos>
+			<size>304,28</size>
+		</object>
+		<object class="wxButton" name="ID_OKEY" variable="Okey" member="yes">
+			<label>Okey</label>
+			<pos>208,128</pos>
+			<handler function="OnButton1Click" entry="EVT_BUTTON" />
+		</object>
+		<object class="wxButton" name="ID_CANCEL" variable="Cancel" member="yes">
+			<label>Cancel</label>
+			<pos>40,128</pos>
+			<handler function="OnButton2Click" entry="EVT_BUTTON" />
+		</object>
+	</object>
+</wxsmith>

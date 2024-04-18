@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1677594484 source:d:\for c++\labs_2_sem\lab2.2\lab22_p2\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<iomanip>
+	"func.h"
+
+1677594250 d:\for c++\labs_2_sem\lab2.2\lab22_p2\func.h
+	<iostream>
+	<string.h>
+	<string>
+	<iomanip>
+
+1677594344 source:d:\for c++\labs_2_sem\lab2.2\lab22_p2\lab22_func.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<iomanip>
+	<time.h>
+	"func.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1677066582 source:d:\for c++\labs_2_sem\lab2.1\lab21_part2\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<iomanip>
+	"func.h"
+
+1677066553 d:\for c++\labs_2_sem\lab2.1\lab21_part2\func.h
+	<iostream>
+	<string.h>
+	<string>
+	<iomanip>
+
+1677066804 source:d:\for c++\labs_2_sem\lab2.1\lab21_part2\lab21_part2_func.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<iomanip>
+	"func.h"
+

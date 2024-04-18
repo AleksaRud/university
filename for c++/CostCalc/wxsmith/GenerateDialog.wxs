@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxDialog" name="GenerateDialog">
+		<size>337,228</size>
+		<pos_arg>1</pos_arg>
+		<size_arg>1</size_arg>
+		<object class="wxStaticText" name="ID_STATICTEXT1" variable="StaticText1" member="yes">
+			<label>Input min and cost of laptop</label>
+			<pos>80,8</pos>
+		</object>
+		<object class="wxStaticBox" name="ID_STATICBOX1" variable="StaticBox1" member="yes">
+			<label>Minimal cost</label>
+			<pos>8,32</pos>
+			<size>320,56</size>
+		</object>
+		<object class="wxStaticBox" name="ID_STATICBOX2" variable="StaticBox2" member="yes">
+			<label>Maximum cost</label>
+			<pos>8,88</pos>
+			<size>320,56</size>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL1" variable="TextCtrl1" member="yes">
+			<value>0</value>
+			<pos>16,56</pos>
+			<size>304,28</size>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL2" variable="TextCtrl2" member="yes">
+			<value>0</value>
+			<pos>16,112</pos>
+			<size>304,28</size>
+		</object>
+		<object class="wxButton" name="ID_OKEY" variable="Okey" member="yes">
+			<label>Okey</label>
+			<pos>192,168</pos>
+			<handler function="OnButton1Click" entry="EVT_BUTTON" />
+		</object>
+		<object class="wxButton" name="ID_CANCEL" variable="Cancel" member="yes">
+			<label>Cancel</label>
+			<pos>48,168</pos>
+			<handler function="OnButton2Click" entry="EVT_BUTTON" />
+		</object>
+	</object>
+</wxsmith>

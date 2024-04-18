@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1678876490 source:d:\for c++\labs_2_sem\lab2_5\lab25_func.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<iomanip>
+	<time.h>
+	"func.h"
+
+1678877312 d:\for c++\labs_2_sem\lab2_5\func.h
+	<iostream>
+	<string.h>
+	<string>
+	<iomanip>
+
+1678992763 source:d:\for c++\labs_2_sem\lab2_5\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<iomanip>
+	"func.h"
+

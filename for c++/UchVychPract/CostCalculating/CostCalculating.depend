@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1688577226 source:d:\for c++\uchvychpract\costcalculating\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string.h>
+	<string>
+	<list>
+	<vector>
+	"func.h"
+
+1688577750 d:\for c++\uchvychpract\costcalculating\func.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string.h>
+	<string>
+	<list>
+	<vector>
+

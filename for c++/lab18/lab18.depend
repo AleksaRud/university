@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1669142411 source:d:\for c++\lab18\func_rec.cpp
+	<iostream>
+
+1669142455 source:d:\for c++\lab18\main.cpp
+	<iostream>
+	"rec.h"
+
+1669141852 d:\for c++\lab18\rec.h
+

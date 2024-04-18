@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664901980 source:d:\for c++\lab13\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

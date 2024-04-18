@@ -1,0 +1,14 @@
+Minsk,park,Cheluskincev,1529
+Minsk,park,Ghorkogo,1529
+Grodno,cafe,KFC,359
+Minsk,cafe,KFC,658
+Lida,park,,457
+Brest,park,,861
+Lida,cinema,Jybileyny,142
+Grodno,cinema,Oktyabr,689
+Minsk,cinema,Oktyabr,948
+Minsk,cafe,KFC,564
+Lida,cafe,KFC,211
+Brest,fortress,Brest_Fortress,965
+Minsk,cafe,Mak.by,355
+Grodno,cafe,Mak.by,234

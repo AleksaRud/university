@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxDialog" name="ChoiceDialog">
+		<size>337,282</size>
+		<id_arg>0</id_arg>
+		<object class="wxButton" name="ID_OKEY" variable="Okey" member="yes">
+			<label>Okey</label>
+			<pos>208,224</pos>
+			<handler function="OnButton1Click" entry="EVT_BUTTON" />
+		</object>
+		<object class="wxStaticBox" name="ID_STATICBOX1" variable="StaticBox1" member="yes">
+			<label>Micro processor</label>
+			<pos>8,32</pos>
+			<size>320,56</size>
+		</object>
+		<object class="wxStaticText" name="ID_STATICTEXT1" variable="StaticText1" member="yes">
+			<label>Choose from lists</label>
+			<pos>112,8</pos>
+		</object>
+		<object class="wxStaticBox" name="ID_STATICBOX2" variable="StaticBox2" member="yes">
+			<label>Videocard</label>
+			<pos>8,88</pos>
+			<size>320,56</size>
+		</object>
+		<object class="wxStaticBox" name="ID_STATICBOX3" variable="StaticBox3" member="yes">
+			<label>Storage device</label>
+			<pos>8,144</pos>
+			<size>320,56</size>
+		</object>
+		<object class="wxChoice" name="ID_CHOICE1" variable="Choice1" member="yes">
+			<pos>16,56</pos>
+			<size>304,28</size>
+			<handler function="OnChoice1Select" entry="EVT_CHOICE" />
+		</object>
+		<object class="wxChoice" name="ID_CHOICE2" variable="Choice2" member="yes">
+			<pos>16,112</pos>
+			<size>304,28</size>
+			<handler function="OnChoice2Select" entry="EVT_CHOICE" />
+		</object>
+		<object class="wxChoice" name="ID_CHOICE3" variable="Choice3" member="yes">
+			<pos>16,168</pos>
+			<size>304,28</size>
+			<handler function="OnChoice3Select" entry="EVT_CHOICE" />
+		</object>
+		<object class="wxButton" name="ID_CANCEL" variable="Cancel" member="yes">
+			<label>Cancel</label>
+			<pos>32,224</pos>
+			<handler function="OnButton2Click" entry="EVT_BUTTON" />
+		</object>
+	</object>
+</wxsmith>
