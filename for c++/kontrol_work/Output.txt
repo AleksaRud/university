@@ -1,0 +1,10 @@
+432 246 446820 245 1234     
+
+432   245
+
+Count of numbers between Chet and NoChet:  2
+
+246	1	48
+446820	2	0
+
+

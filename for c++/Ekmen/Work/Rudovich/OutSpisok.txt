@@ -1,0 +1,26 @@
+Drogin M. E.	255	180	275	95
+Voronov K. Y.	255	335	275	-60
+Voronov K. Y.	255	335	275	-60
+Drogin M. E.	255	180	275	95
+Klygunov E.T.	298	200	321	121
+Klygunov E.T.	298	200	321	121
+Knitor P. A.	306	210	330	120
+Anikovich Y. V.	306	350	330	-20
+Anikovich Y. V.	306	350	330	-20
+Knitor P. A.	306	210	330	120
+Katsura A.V.	391	380	422	42
+Beryozkin G. B.	391	320	422	102
+Vetrova O. N.	391	430	422	-8
+Beryozkin G. B.	391	320	422	102
+Katsura A.V.	391	380	422	42
+Vetrova O. N.	391	430	422	-8
+Kalach M.V.	408	410	440	30
+Kalach M.V.	408	410	440	30
+
+Number of persons = 18
+Sum of costs 5630
+Sum of money without prc 6002
+Sum of money with prc 6474
+Sum of money that were returned 844
+Money left -1286
+

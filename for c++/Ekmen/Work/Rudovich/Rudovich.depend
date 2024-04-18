@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1672822424 source:c:\users\37529\desktop\ekmen\work\rudovich\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<iomanip>
+

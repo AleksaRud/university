@@ -1,0 +1,19 @@
+Belarusian  	SUIR #1	600	8
+Belarusian  	NTU#1	505	7
+Belarusian  	SU 11	505	7
+Baltic  	FU 2	495	7
+Belarusian  	SUIR #4	490	7
+Belarusian  	SU 1	470	6
+Belarusian  	SU 4	455	7
+Belarusian  	SU 6	455	7
+Baltic  	FU 1	445	7
+Belarusian  	SU 2	445	7
+Belarusian  	SUIR 	440	7
+Belarusian  	SU 5	440	7
+Belarusian  	SUIR #7	435	7
+Belarusian  	SUIR #5	435	7
+Belarusian  	SU 9	415	7
+Belarusian  	SU 10	400	6
+Belarusian  	SU 12	385	6
+Belarusian  	SUIR #9	345	5
+

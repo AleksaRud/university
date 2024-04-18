@@ -1,0 +1,15 @@
+*World of Fantasy:  Web-camera  49  44
+*World of presents:  Wrist clocks  23  20
+*World of Fantasy:  Electronic notebook  19  17
+*World of Fantasy:  Souvenir flash drive  15  13
+*Valensia:  Laptop backpack  12  10
+*Valensia:  Multifunctional pens  10  9
+*World of presents:  3D-pen  9  8
+*Valensia:  Eternal calendar  7  6
+*Valensia:  T-shirt with logo  7  6
+
+Ocost   151
+Ncost   133
+Pcost   17
+Max cost in*Valensia  139
+

@@ -1,0 +1,11 @@
+Belarusian  	SUIR #1	600	1 Web-cameras
+Belarusian  	NTU#1	505	1 Apple laptops
+Belarusian  	SU 11	505	1 Asus laptops
+Baltic  	FU 2	495	2 Samsung smartphones
+Belarusian  	SUIR #4	490	2 Xiaomi smartphones
+Belarusian  	SU 1	470	2 clocks
+Belarusian  	SU 4	455	3 E-books
+Belarusian  	SU 6	455	3 flash drives
+Baltic  	FU 1	445	3 Books
+
+

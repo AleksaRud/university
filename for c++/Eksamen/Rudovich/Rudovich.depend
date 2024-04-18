@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1686820897 source:c:\users\37529\desktop\eksamen\rudovich\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<iomanip>
+	<list>
+	<vector>
+
